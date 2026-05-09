@@ -38,5 +38,3 @@ Docker Image Build
 Tomcat Container Deployment
         ↓
 Browser Access
-```
-Browser Access

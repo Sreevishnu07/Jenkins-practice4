@@ -25,6 +25,8 @@ A complete end-to-end DevOps implementation demonstrating automated Java web app
 
 ## Pipeline Workflow
 
+## Pipeline Workflow
+```text
 GitHub Repository
         ↓
 Jenkins Pipeline
@@ -38,3 +40,4 @@ Docker Image Build
 Tomcat Container Deployment
         ↓
 Browser Access
+```

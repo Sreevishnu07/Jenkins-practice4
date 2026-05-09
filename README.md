@@ -24,8 +24,6 @@ A complete end-to-end DevOps implementation demonstrating automated Java web app
 - GitHub
 
 ## Pipeline Workflow
-
-## Pipeline Workflow
 ```text
 GitHub Repository
         ↓
